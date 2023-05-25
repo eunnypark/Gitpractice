@@ -1,6 +1,6 @@
 app ver 0.3
 
-appname = "alom'
+appname = "develop"
 add login
 add logout
 add sign in
